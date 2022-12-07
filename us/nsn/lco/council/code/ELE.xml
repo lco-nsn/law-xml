@@ -1095,6 +1095,16 @@
         <annotation type="Prior Codifications">§ELE.1.5.110 was formerly codified as V LCOTCL §1.319</annotation>
       </section>
     </container>
+    <container>
+      <num>ELE.1.6</num>
+      <heading>Election Forms</heading>
+      <prefix>Subchapter</prefix>
+      <section>
+        <num>ELE.1.6.010</num>
+        <heading>Forms</heading>
+        <text>Election forms can be accessed <a href="../forms/election">here</a></text>
+      </section>
+    </container>
   </container>
   <container>
     <num>ELE.2</num>
