@@ -9,7 +9,7 @@
     <canonical-urls>
       <xml-bulk>https://github.com/lco-nsn/law-xml</xml-bulk>
       <html-bulk>https://github.com/lco-nsn/law-html</html-bulk>
-      <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
+      <static-assets>https://github.com/lco-nsn/law-static-assets</static-assets>
       <law-git>https://github.com/lco-nsn/law.git</law-git>
       <html>https://law.lco-nsn.gov</html>
     </canonical-urls>
