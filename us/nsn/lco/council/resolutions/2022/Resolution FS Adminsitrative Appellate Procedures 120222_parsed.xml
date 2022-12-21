@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <error errorCode="1000" ignorable="false" paraHint="TCT.5.01&#9;Applicability" paraNum="22" reason="Document structure error">
+    <reason>
+      <p>Found so far:</p>
+      <ul>
+        <li paraNum="0" title="Click to jump to paragraph"><code>Seal</code>: an image</li>
+        <li class="para-span" title="Click to jump to paragraphs.">
+          <code>Tribal heading</code>
+          <ul>
+            <li paraNum="1" class="para-from" title="Click to jump to paragraph">Pride of the Ojibwe</li>
+            <li paraNum="4" class="para-to" title="Click to jump to paragraph">Phone 715-634-8934 ....</li>
+          </ul>
+        </li>
+        <li paraNum="7" title="Click to jump to paragraph"><code>Resolution number</code>: RESOLUTION NO. 2022-...</li>
+        <li paraNum="9" title="Click to jump to paragraph"><code>Resolution heading</code>: AMEMDMENT OF TITLE T...</li>
+        <li class="para-span" title="Click to jump to paragraphs.">
+          <code>Recitals</code>
+          <ul>
+            <li paraNum="11" class="para-from" title="Click to jump to paragraph">WHEREAS, the Lac Cou...</li>
+            <li paraNum="16" class="para-to" title="Click to jump to paragraph">NOW THEREFORE BE IT ...</li>
+          </ul>
+        </li>
+        <li paraNum="17" title="Click to jump to paragraph"><code>Section paragraph</code>: Section 1. Place hol...</li>
+        <li paraNum="18" title="Click to jump to paragraph"><code>chapter start</code>: CHAPTER TCT.5</li>
+        <li paraNum="19" title="Click to jump to paragraph"><code>chapter heading</code>: FINANCIAL SERVICES R...</li>
+      </ul>
+      <p paraNum="22">Expected at this location is one of:</p>
+      <ul>
+        <li>
+          <code>preamble start</code>
+        </li>
+        <li>
+          <code>subchapter start</code>
+        </li>
+      </ul>
+      <p>but one of these paragraphs was found:</p>
+      <ul>
+        <li>
+          <code>chapter heading</code>
+        </li>
+        <li>
+          <code>part heading</code>
+        </li>
+        <li>
+          <code>preamble body</code>
+        </li>
+        <li>
+          <code>subchapter heading</code>
+        </li>
+        <li>
+          <code>title heading</code>
+        </li>
+      </ul>
+    </reason>
+    <para>TCT.5.01	Applicability</para>
+  </error>
+</document>
