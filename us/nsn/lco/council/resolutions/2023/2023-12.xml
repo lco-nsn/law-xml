@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2023-12">
+  <num>2023-12</num>
+  <heading>Amended: Establishment of Prp.10 Leasing Ordinance of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians and Application to the Secretary of Interior for Approval of Same</heading>
+  <meta>
+    <effective>2023-01-30</effective>
+    <citations>
+      <citation type="res" url="./adopted/2023-12.pdf">Res. No. 2023-12</citation>
+    </citations>
+    <history>
+      <adopted>2023-01-30</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(s)">Article V, § 1(s),</cite> the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board to "promulgate and enforce ordinances…providing for the maintenance of law and order and the administration of justice;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1|(f)">Article V, § 1(f),</cite> the Amended Constitution and By-laws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians empowers the Tribal Governing Board "to manage, lease, permit, or otherwise deal with tribal lands, interests in lands or assets, or to purchase lands or to otherwise acquire lands, or interests in lands within or without the Reservation"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a Leasing Code was approved by the Tribal Governing Board on April 25, 2022, pursuant to <cite doc="Lac Courte Oreilles Tribal Governing Board Res. No. 2022-41">Resolution 2022-41</cite> and the Tribe sought review of the Leasing Code with the Bureau of Indian Affairs pursuant to the Helping Expedite and Advance Responsible Tribal Home Ownership (HEARTH) Act, 25 U.S.C. § 415(h); however, the Leasing Code was not codified by Open Law Library.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board has determined that it is in the best interest of the Tribe to amend the Leasing Code, and pursuant to the HEARTH Act, approves the application to the Secretary of the Interior for approval of the Amended Leasing Code.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby enacts and establishes <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.10">PRP.10</cite> Leasing Code of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians as attached. Further, the Tribal Governing Board hereby requests that the Secretary of Interior approve the same and authorizes the Tribal Chairman to file such application.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>6</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>30<sup>th</sup> day of January, 2023</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>5</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>Tweed Shuman, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
