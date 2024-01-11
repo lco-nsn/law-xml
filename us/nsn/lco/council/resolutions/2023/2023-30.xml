@@ -40,7 +40,7 @@
     <text>Tweed Shuman, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:insert path="MCC">
+  <codify:insert path="MCC" after="MCC.1">
     <container>
       <prefix>Chapter</prefix>
       <num>MCC.2</num>
