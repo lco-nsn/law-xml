@@ -63,7 +63,8 @@
     <text>William Trepanier, Secretary/Treasurer</text>
     <text>Lac Courte Oreilles Tribal Governing Board</text>
   </procedural-data>
-  <codify:replace path="CMP.1">
+  <codify:remove path="CMP.1" warning="false"/>
+  <codify:insert path="CMP" before="CMP.2">
     <container>
       <prefix>Chapter</prefix>
       <num>CMP.1</num>
@@ -1621,5 +1622,5 @@
         </section>
       </container>
     </container>
-  </codify:replace>
+  </codify:insert>
 </document>
