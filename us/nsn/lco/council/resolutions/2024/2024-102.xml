@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Lac Courte Oreilles Tribal Governing Board Res. No. 2024-102">
+  <num>2024-102</num>
+  <heading>Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law PRP.9 "American Rescue Plan Act and Homeowner Assistance Fund Polices and Procedures" Amendments</heading>
+  <meta>
+    <effective>2024-10-22</effective>
+    <citations>
+      <citation type="res" url="./adopted/2024-102.pdf">Res. No. 2024-102</citation>
+    </citations>
+    <history>
+      <adopted>2024-10-22</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Lac Courte Oreilles Band of Lake Superior Chippewa Indians is a federally recognized Indian tribe ("Tribe") organized pursuant to the provisions of the Indian Reorganization Act of 1934, 25 U.S.C. §5101, et seq.; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Governing Board serves as the governing body of Lac Courte Oreilles Band of Lake Superior Chippewa Indians pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, § 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|V|1">Article V, Section 1 of the Amended Constitution and Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians</cite>, empowers the Tribal Governing Board to "engage in any business that will further the social or economic well-being of members of the Band or undertake any programs or projects designed for the economic advancement of the people;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Homeowner Assistance Fund (HAF) was established under section 3206 of the American Rescue Plan Act of 2021 to mitigate financial hardships associated with the coronavirus pandemic by providing funds to eligible entities for the purpose of preventing homeowner mortgage delinquencies, defaults, foreclosures, loss of utilities or home energy services, and displacements of homeowners experiencing financial hardship after January 21, 2020, through qualified expenses related to mortgages and housing; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe enacted LCOTCL <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9">PRP.9</cite> by Resolution 2022-08; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the policies must be amended to include ARPA specific funding requirements and eligibility standards.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Governing Board hereby shall amend the LCOTCL <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9">PRP.9</cite> as follows:</text>
+      <text>Add: <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.5.050|(h)">PRP.9.5.050(h)</cite> as follows:</text>
+      <para>
+        <num>(h)</num>
+        <text>Eligible applicants whose income exceeds 150% of the area median income will be assisted with the Homeowner Assistance Program set-aside of the Tribe's ARPA funds.</text>
+      </para>
+      <text>Add the following redlined sentenced to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.6.010">PRP.9.6.010</cite> "Documentation" as follows:</text>
+      <text>Once an Applicant is approved for participation in the HAF Program, they must submit information and documentation of the qualiﬁed expenses for which they are seeking HAF Program Funds. <em>Documentation requirements, other than that required for general eligibility, do not apply to those applicants whose income exceeds 150% of the area median income.</em></text>
+      <text>ADD to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.2.010">PRP.9.2.010</cite> "General Definitions" the following:</text>
+      <para>
+        <num>(o)</num>
+        <text>"Obligation" means a contract or purchase action such as a new contract, modification, change order, interagency agreement, interdepartmental agreement, application for services or benefits, purchase order or any customary means that obligates the Tribe to pay a contractor or vendor; provided, that such contract or purchase action is approved by the Tribal Governing Board or otherwise authorized by an individual to whom the Tribe has expressly delegated the authority to make such an obligation.</text>
+      </para>
+      <text>ADD the following to the end of the Preamble as follows: "as established under section 3206 of the American Rescue Plan Act of 2021(the ARPA) <em>and to the amended Title VI of the Social Security Act sections 602 and section 603 which established the State and Local Fiscal Recovery Funds (SLRF).</em>"</text>
+      <text>ADD the following to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.1.030">PRP.9.1.030</cite> "Purpose" as follows: " received from the U.S. Treasury pursuant to Section 3206 of the American Rescue Plan Act of 2021, P.L.No. 117-2 (March 11, 2021) <em>and to the amended Title VI of the Social Security Act sections 602 and section 603 which established the State and Local Fiscal Recovery Funds.</em>"</text>
+      <text>AMEND the date of "September 30, 2026" to "December 31, 2026" in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.1.040">PRP.9.1.040</cite> "Application."</text>
+      <text>ADD to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.2.010">PRP.9.2.010</cite> "General Definitions" the following:</text>
+      <para>
+        <num>(w)</num>
+        <text>"State and Local Fiscal Recovery Funds" means the program that was established by sections 602 and section 603 of Title VI of the Social Security Act which provides support to State, local, territorial, and Tribal governments to mitigate the fiscal effects of the COVID-19 public health emergency.</text>
+      </para>
+      <text>ADD to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.3.030">PRP.9.3.030</cite> "Responsibility of the ARPA Program Manager" as follows:</text>
+      <para>
+        <num>(d)</num>
+        <text>to Ensure that all grant expenditures of the HAF Program are spent to maximize the available grant funds to the Program and in turn, to tribal members.</text>
+      </para>
+      <text>Remove the following phrase from <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.6.010">PRP.9.6.010</cite> "For Mortgage Assistance" as follows:</text>
+      <text>"Documentation requirements: Evidence of total balance due <s>current unredacted past due notice</s> from servicer."</text>
+      <text>ADD <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.7.040|(b)">PRP.9.7.040(b)</cite> as follows:</text>
+      <para>
+        <num>(b)</num>
+        <text>The ARPA amended Title VI of the Social Security Act which added sections 602 and 603 that established the State and Local Fiscal Recovery Funds (SLRF).</text>
+      </para>
+      <text>ADD to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.8.010">PRP.9.8.010</cite> "Use of Funds" as follows:</text>
+      <text>"…the Guidance for the Homeowner Assistance Fund issued by Treasury on April 14, 2021, as amended from time to time, <em>Title VI of the Social Security Act's section 602 and 603, Compliance and Reporting Guidance for SLRF,</em> 31 CFR Part 35 Interim Rule for SLRF, and any other guidance issued by the Treasury regarding HAF <em>and SLRF</em>."</text>
+      <text>ADD to <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.8.030">PRP.9.8.030</cite> "Program Limitations" the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>"…related to foreclosure prevention or displacement <em>unless allowable through SLRF funding.</em>"</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>"…for qualified expenses, in an aggregate amount <em>unless allowable through SLRF funding.</em>"</text>
+      </para>
+      <text>ADD the following to the end of the last sentence in <cite doc="Lac Courte Oreilles Tribal Code of Law" path="PRP.9.8.050|(b)">PRP.9.8.050(b)</cite> as follows:</text>
+      <text>"The Tribe reserves the right to collect any funds disbursed under this chapter for any project that has been rescinded under this section <em>and in compliance with the Tribe's Rules of Civil Procedure <cite doc="Lac Courte Oreilles Tribal Code of Law" path="TCT.2">TCT.2</cite>.</em>"</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <strong>CERTIFICATION</strong>
+    </text>
+    <text>I, the undersigned, as Secretary/Treasurer of the Lac Courte Oreilles Tribal Governing Board, hereby certify that the Tribal Governing Board is composed of seven (7) members, of whom <strong><u>6</u></strong> being present, constituted a quorum at a meeting thereof, duly called, convened, and held on this <strong><u>22<sup>nd</sup> day of October, 2024</u></strong>, that the foregoing Resolution was duly adopted at said meeting by an affirmative vote of <strong><u>5</u></strong> members, <strong><u>0</u></strong> against, <strong><u>0</u></strong> abstaining, and that said Resolution is a lawful act of the Tribe.</text>
+    <text>___________________________________</text>
+    <text>William Trepanier, Secretary/Treasurer</text>
+    <text>Lac Courte Oreilles Tribal Governing Board</text>
+  </procedural-data>
+</document>
